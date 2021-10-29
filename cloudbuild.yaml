@@ -9,4 +9,4 @@ steps:
 timeout: 86400s
 options:
   pool:
-    name: 'projects/asia-southeast1/locations/asia-southeast2/workerPools/1'
+    name: 'projects/august-cascade-330513/locations/asia-southeast2/workerPools/1'
